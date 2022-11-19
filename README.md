@@ -1,2 +1,2 @@
-# POO
-Exemplo aula POO
+# JAVA
+Programação Orientada a Objeto
